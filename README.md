@@ -52,7 +52,7 @@ The frontend interacts with the backend API hosted in the [devTinder-backend](ht
 
 ## 🚀 Deployment
 
-Will Soon deploy on AWS
+Will Soon deploy on AWS EC2 instance.
 
 ## 📜 License
 
